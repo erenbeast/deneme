@@ -1,0 +1,7 @@
+visual 2015 devexpress++
+teamviewer++
+intellij++
+dbviewer++
+sourcetree++
+visual code++
+sub text++
